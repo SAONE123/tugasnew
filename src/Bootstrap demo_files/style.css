@@ -1,0 +1,24 @@
+.card {
+    padding: 20px;
+}
+
+.card-text {
+    text-align: start;
+}
+
+.container-fluid {
+    padding: 0 10px;
+}
+
+.navbar-toggler {
+    position: relative;
+    right: -43%;
+}
+
+
+@media screen and (max-width: 992px) {
+    .loss {
+        display: none;
+    }
+
+}
